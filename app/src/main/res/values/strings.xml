@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">伍思成_2024110538</string>
+
+    <!-- MainActivity按钮文字 -->
+    <string name="btn_go_act1">启动Activity1正向传参</string>
+    <string name="btn_go_act2">启动Activity2返回数据</string>
+    <string name="btn_go_act3">启动Activity3拍照</string>
+    <string name="btn_go_act4">启动Activity4秒表</string>
+
+    <!-- Activity1 -->
+    <string name="act1_tip">收到主页面传递的数据：</string>
+
+    <!-- Activity2 -->
+    <string name="act2_hint">请输入要返回的数据</string>
+    <string name="act2_btn_back">确认返回</string>
+    <string name="main_receive_tip">Activity2返回内容：</string>
+
+    <!-- Activity3 -->
+    <string name="act3_btn_take">点击拍照</string>
+
+    <!-- Activity4秒表 -->
+    <string name="btn_start">开始</string>
+    <string name="btn_stop">暂停</string>
+    <string name="btn_reset">重置</string>
+</resources>
