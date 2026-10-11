@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">伍思成_2024110538</string>
+    <string name="app_name">王浩宇_2024110536</string>
 
     <!-- MainActivity按钮文字 -->
     <string name="btn_go_act1">启动Activity1正向传参</string>
